@@ -1,7 +1,7 @@
 # anne-dbscan-demo
 Demo of using aNNE similarity for DBSCAN.
 
-Written by Xiaoyu Qin, Monash University, July 2019, version 1.0
+Written by Xiaoyu Qin, Monash University, March 2019, version 1.0
 
 This software is under GNU General Public License version 3.0 (GPLv3)
 
