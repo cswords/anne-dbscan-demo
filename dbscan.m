@@ -1,4 +1,4 @@
-function [class] = DBSCAN(dis, eps, minPts)
+function [class] = dbscan(dis, eps, minPts)
 
 m_adjacency = dis <= eps;
 l_core = sum(m_adjacency, 2) >= minPts;
